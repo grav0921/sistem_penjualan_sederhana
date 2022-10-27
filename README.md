@@ -1,5 +1,5 @@
 <h1>Sistem penjualan sederhana</h1>
-<h3>Cara running sistem</h3>
+<h3>Running sistem</h3>
 
 <p>import penjualan.sql ke mysql phpmyadmin</p>
 <br>
