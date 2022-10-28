@@ -7,3 +7,6 @@
 <p>npm init</p>
 <p>npm i express hbs mysql node-fetch nodemon redis-server req-flash body-parser</p>
 <p>npm run main</p>
+
+<br>
+<a href ="http://localhost:8020/p"><p>tampilan data penjualan</p></a>
